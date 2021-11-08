@@ -2,6 +2,13 @@
 name = "libinchi-sys"
 version = "0.1.0"
 edition = "2018"
+description = "A thin rust wrapper around libinchi"
+homepage = "https://github.com/mustafa-guler/libinchi-sys"
+repository = "https://github.com/mustafa-guler/libinchi-sys"
+readme = "README.md"
+categories = ["science", "api-bindings"]
+keywords = ["molecule", "inchi", "hash"]
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
